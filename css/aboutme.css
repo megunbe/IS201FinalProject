@@ -1,0 +1,54 @@
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#top{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(175, 149, 124);
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul{
+    list-style-position: inside;
+    font-weight: lighter;
+   display: inline-block;
+   text-align: left;
+}
+
+li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.header{
+    font-style: oblique;
+    font-size: 18px;
+    color: rgb(102, 177, 180);
+}
+
+.bullet{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Tableau{
+    font-weight: bold;
+    color: rgb(74, 193, 104);
+    font-size: 20px;
+    font-style: normal;
+}
